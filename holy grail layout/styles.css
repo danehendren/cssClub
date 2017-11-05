@@ -1,0 +1,35 @@
+* {
+  border: 1px solid black;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+header {
+  height: 50px;
+}
+
+main {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: row;
+}
+
+.menuLeft {
+  flex-grow: 1;
+}
+
+.content {
+flex-grow: 4;
+}
+
+.menuRight {
+  flex-grow: 1;
+}
+
+footer {
+  height: 50px;
+}
