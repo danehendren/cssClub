@@ -1,6 +1,8 @@
 # cssClub
 ideas, designs and projects for css/jquery stuff goes in here.
 
+- basic template files so you don't gotta keep writing stuff: https://github.com/stephanLeece/cssClub/tree/master/boilerplate
+
 ## project ideas:
 
 - let's make the holy grail layout with flex, and then break it: https://github.com/stephanLeece/cssClub/tree/master/holy%20grail%20layout
