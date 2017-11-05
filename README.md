@@ -5,7 +5,7 @@ ideas, designs and projects for css/jquery stuff goes in here.
 
 - let's make the holy grail layout with flex, and then break it: https://github.com/stephanLeece/cssClub/tree/master/holy%20grail%20layout
 
-## tutorials:
+## amazing css stuff:
 - Loads of awesome guides here: https://tympanus.net/codrops/
 - Radial menu: https://codepen.io/suez/pen/vAais
 - Rotating menu: http://www.inserthtml.com/2012/09/rotating-menu/
